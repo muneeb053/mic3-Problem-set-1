@@ -1,4 +1,11 @@
+for Task A --> check the code file task A.py
+for Task B --> check the code file app.py
+for task C read below
+
+
 # Time Difference Calculation Application
+
+
 
 This application calculates the time difference between pairs of timestamps with diffrent time zones.
 
